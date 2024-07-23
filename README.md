@@ -2,6 +2,8 @@
 
 A simple and intuitive Todo List application built with HTML, CSS, and JavaScript. This application allows users to add, update, and delete their to-do items. It also uses local storage to persist the data even after the browser is closed.
 
+[🔵 Live Project URL](https://todo-list-sahil.netlify.app/)
+
 ## Features
 
 - Add new todo items
@@ -25,4 +27,4 @@ $ cd Todo_list
 # Open the index.html file in your browser
 $ start index.html
 
-[🔵 Live Project URL](https://todo-list-sahil.netlify.app/)
+
