@@ -25,4 +25,4 @@ $ cd Todo_list
 # Open the index.html file in your browser
 $ start index.html
 
-[🔵 Live Project URL](https://todo-list-sahil.netlify.app/)
+[🔵 Live Project URL]("https://todo-list-sahil.netlify.app/")
